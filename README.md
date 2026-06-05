@@ -4,7 +4,7 @@ This is the Sensirion SEN62 library for Arduino allowing you to
 communicate with a SEN62 sensor
 over I²C.
 
-<img src="images/sen6x.png" width="300px">
+<img src="images/product-image-sen6x.png" width="300px">
 
 Click [here](https://sensirion.com/sen6x-air-quality-sensor-platform) to learn more about the Sensirion SEN62 sensor.
 
@@ -40,7 +40,7 @@ manager or `Add .ZIP Library`
 
 Use the following pin description to connect your SEN62 to the standard I²C bus of your Arduino board:
 
-<img src="images/sen6x-pinout.png" width="300px">
+<img src="images/product-pinout-sen6x.png" width="300px">
 
 | *Pin* | *Cable Color* | *Name* | *Description*  | *Comments* |
 |-------|---------------|:------:|----------------|------------|
